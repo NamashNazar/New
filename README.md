@@ -62,5 +62,9 @@ CLASS
 	validity of this class.
 
 ## Files
-The project includes an RMD file, a PDF extract of RMD file using knitr and the R script of the same.
+The project includes an 
+
+* An RMD file with all the narrative and code
+* A PDF file extracted from the RMD file using knitr 
+* The R script of the same.
 
